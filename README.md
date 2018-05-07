@@ -5,7 +5,7 @@ our policies and procedures. While this is our official repository, these may no
 as we need to do additional legal reviews and update the website independently. They should however be close.
 
 # What do I do?
-We are offering these policies under [CC0-1.0](#License). You can apply these policies in part or in whole and you can make required 
+We are offering these policies under [CC0-1.0](#license). You can apply these policies in part or in whole and you can make required 
 changes as they apply to your product or service. Just remember to remove references to Foqal and our products and services.
 
 ## Make them even better
