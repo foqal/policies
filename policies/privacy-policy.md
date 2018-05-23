@@ -91,7 +91,7 @@ Foqal does not sell, rent or lease its Customer information or lists to third pa
 1. To comply with law and safety - Foqal may disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Foqal or the site; (b) protect and defend the rights or property of Foqal; and/or (c) act under exigent circumstances to protect the personal safety of users of Foqal, or the public.
 2. To process Customer or User Data - Foqal may share data with trusted partners to help perform statistical analysis, process payments, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Foqal, and they are required to maintain the confidentiality of your information.
 
-    For the list of current Subprocessors, please visit our [subprocessor addendum](subprocessor-adendum.md).
+    For the list of current Subprocessors, please visit our [subprocessor addendum](subprocessors-addendum.md).
 3. Third party integrations - With permission and acting on behalf of the Customer, we may share data with third party integrations added or requested to be added by the Customer. We are not responsible for the collection, sharing, use or misuse of third party integrations added by the Customer.
 4. Aggregate or anonymized data - We may share for any purpose or in any way required the aggregate or anonymized (de-identified) information gathered from Customer or User data. These are things like total number of questions answered across all Customers using the Services.
 5. Customer Support Questions - Any support question you ask directly by contacting us via Email, Phone, Slack, or any other means is subject to being used to help other customers with their support inquiries. Before sharing the question, we will make the best effort to remove any identifying information about the User or Customer making the inquiry. 
@@ -109,7 +109,7 @@ More specifically
 * Service Usage, Device Information, Geo-Location - Because we use this data for many reasons such as understanding usage patterns, security, and auditing, we usually retain this data the longest. 
   * We will only delete Audit logs based on the configuration of our Customers. If the Customer selects to never delete Audit logs, we will not delete Audit log information until the Customer closes the Account.
   * Other Reasons - Most information will be retained for 3 years. After 3 years we either delete or anonymize and aggregate the information. When aggregating, certain personal information such as online identifiers and IP address might still be retained. This data will live for 3 years regardless of account closure and data deletion requests as this information is used for historical and statistical research.
-* Third Party Data - Please refer to our Subprocessor Addendum for details 
+* Third Party Data - Please refer to our [Subprocessor Addendum](subprocessors-addendum.md) for details 
 
 ## Data Portability, Right to be forgotten
 ### Portability:
