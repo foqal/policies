@@ -20,10 +20,8 @@ We also plan to use this to provide transparency as we make changes to our own p
 
 # License
 The information in this repository (the "Policies") are licensed under this Creative Commons Zero License [CC0-1.0](LICENSE.md). 
-The Policies are provided on an "as-is" basis. You are free to use the Policies for any purpose and modify it as you would like,
+The Policies are provided on an "as-is" basis. You are free to use the Policies for any purpose and modify them as you would like,
 however, we (Foqal) are not liable for any loss or damage suffered as a result of use or misuse or reliance on the information and
 content of the Policies.
 
-This Licence does not grant any trademark permissions and does not convey or constitute any legal advice. Your use of this information 
-does not create an attorney-client relationship between you and Foqal. The Policies and procedures may not suit your organizational 
-needs, so always consult a lawyer if you want to adopt any of these Policies for your own uses. 
+This License does not grant any trademark or other intellectual property permissions and does not convey or constitute any legal advice. Your use of this information does not create an attorney-client relationship between you and Foqal. This Agreement and procedures may not suit your organizational needs, so always consult a lawyer if you want to adopt this Agreement for your own uses. 
