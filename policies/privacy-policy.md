@@ -165,18 +165,18 @@ Foqal may disclose personally-identifying information or other information we co
 In complying with court orders and similar legal processes, Foqal strives for transparency. When permitted, we will make a reasonable effort to notify users of any disclosure of their information, unless we are prohibited by law or court order from doing so, or in rare, exigent circumstances.
 
 ## Your Rights
-Foqal is the subprocessor to most of your personal data (name, email, etc) that we access. Any requests to add, modify, or delete such data should be made to the Customer to which you as a User are bound. Once the Customer modifies this data, it will be updated within our system within 10 business days.
+Foqal is the Subprocessor to most of your personal data (name, email, etc) that we access. Any requests to add, modify, or delete such data should be made to the Customer to which you as a User are bound. Once the Customer modifies this data, it will be updated within our system within 10 business days.
 
-Foqal also collects and processes certain information about you (such as IP address, geo-location, device information) as mentioned in this Privacy Policy. This information is never shared with any party other than the mentioned Subprocessors. The duration of how long we store this information is described in the [Data Retention section](#Data-Retention). However if you would like for us to remove such information faster, please contact us at dpo@foqal.io and we will respond to you within 10 business days.
+Foqal also collects and processes certain information about you (such as IP address, geo-location, device information) as mentioned in this Privacy Policy. This information is never shared with any party other than the mentioned [Subprocessors](subprocessors-addendum.md). The duration of how long we store this information is described in the [Data Retention Section](#Data-Retention). However if you would like for us to remove such information faster, please contact us at dpo@foqal.io and we will respond to you within 10 business days.
 
-You have the right to access and export your personal information at any time. Please refer to the [Data Portability](#Data-Portability,-Right-to-be-forgotten) section of this Privacy Policy for more information.
+You have the right to access and export your personal information at any time. Please refer to the [Data Portability Section](#Data-Portability,-Right-to-be-forgotten) of this Privacy Policy for more information.
 
 We limit our use of your User Personal Information to the purposes listed in this Privacy Statement. If we need to use your User Personal Information for other purposes, we will ask your permission first.
 
 ## Complaints
 In compliance with the Privacy Shield Principles, Foqal commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Foqal at: dpo@foqal.io
 
-For more information refer to the [Privacy Shield Dispute resolution process](#Dispute-resolution-process).
+For more information refer to the [Privacy Shield Dispute Resolution Process Section](#Dispute-resolution-process).
 
 ## Other
 ### External Data Storage Sites
@@ -203,12 +203,12 @@ If you have concerns about the way Foqal is handling your User Personal Informat
 You may also contact our Data Protection Officer directly by emailing dpo@foqal.io
 
 #### Dispute resolution process
-In the unlikely event that a dispute arises between you and Foqal regarding our handling of your User Personal Information, we will do our best to resolve it. If we cannot, ADR has been selected as an independent dispute resolution provider to handle unresolved Privacy Shield complaints. If we are unable to resolve your concerns after a good faith effort to address them, you may contact ADR and submit a Privacy Shield claim. ADR is a US-based private alternate dispute resolution provider, and we have contracted with ADR to provide an independent recourse mechanism for any of our users for privacy concerns at no cost to you. You do not need to appear in court; you may conduct this dispute resolution process via telephone or video conference.
+In the unlikely event that a dispute arises between you and Foqal regarding our handling of your User Personal Information, we will do our best to resolve it. If we cannot, ADR has been selected as an independent dispute resolution provider to handle unresolved Privacy Shield complaints. If we are unable to resolve your concerns after a good faith effort to address them, you may [contact ADR and submit a Privacy Shield claim](http://go.adr.org/privacyshieldannex.html). ADR is a US-based private alternate dispute resolution provider, and we have contracted with ADR to provide an independent recourse mechanism for any of our users for privacy concerns at no cost to you. You do not need to appear in court; you may conduct this dispute resolution process via telephone or video conference.
 
 Additionally, if you are a resident of an EU member state, you have the right to file a complaint with your local supervisory authority.
 
 #### Independent arbitration
-Under certain limited circumstances, European Union individuals may invoke binding Privacy Shield arbitration as a last resort if all other forms of dispute resolution have been unsuccessful. To learn more about this method of resolution and its availability to you, please read more about Privacy Shield. Arbitration is not mandatory; it is a tool you can use if you choose to.
+Under certain limited circumstances, European Union individuals may invoke binding Privacy Shield arbitration as a last resort if all other forms of dispute resolution have been unsuccessful. To learn more about this method of resolution and its availability to you, please read more about [Privacy Shield](https://www.privacyshield.gov/article?id=ANNEX-I-introduction). Arbitration is not mandatory; it is a tool you can use if you choose to.
 We are subject to the jurisdiction of the Federal Trade Commission.
 
  
