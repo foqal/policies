@@ -1,5 +1,5 @@
 # Privacy Policy
-Effective as of May 17, 2018
+Effective as of October 24, 2018
 
 This Privacy Policy governs data collection and usage and applies to the entire suite of Foqal products and services including, but not limited to, the website http://foqal.io, the Foqal Slack Extension, and Foqal Mobile Application (the “Services”).  
 
@@ -49,7 +49,7 @@ Please keep in mind that if you directly disclose personally-identifiable inform
 Unfortunately Foqal doesn’t have an office in every country. We may transfer your data to countries other than the one where you live including the United States. Other countries have regulations that might be different from yours, however we take all measures to ensure that your Data remains protected and complies with applicable data protection laws.  The hosting facilities for our Services are located in United States of America.
  
 If your data originates in the European Union or Switzerland, the following are safeguards we deploy:
-* EU-U.S. and the Swiss-U.S. Privacy Shield Framework - to be compliant with EU and Swiss data protection laws, Foqal self-certified under the EU-US and Swiss-US privacy shield.
+* Foqal complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield  Framework(s), as applicable) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland, to the United States. Foqal has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/.
 * European Union Model Clauses - to meet the security, privacy, and adequacy requirements of international data transfer between our Customers residing in the EU and Foqal, we offer European Union Model Clauses (also known as Standard Model Clauses). To get a copy of this data addendum, please contact us at legal@foqal.io.
 
 ## How we use your data
@@ -155,6 +155,29 @@ Safari  | https://support.apple.com/kb/ph21411?locale=en_US
 Edge    | https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy
 Opera   | https://www.opera.com/help/tutorials/security/privacy/
 
+# Privacy Shield Statement
+Foqal commits to cooperate with EU data protection authorities (DPAs) and the Swiss Federal Data and Information Commissioner (FDPIC) and comply with the advice given by such authorities with regard to data transferred from the EU and Switzerland.
+
+We do share Customer Data and Service Data with a limited number of third party vendors who process it on our behalf to provide or improve our service, and who have agreed to privacy restrictions similar to our own Privacy Policy and whom also comply with The Privacy Shield Framework. Our vendors perform services such as payment processing, network data transmission, and other similar services. When we transfer your data to our vendors under Privacy Shield, we remain responsible for it. While Foqal processes all Customer Data and Service Data in the United States, our third party vendors may process data outside of the United States or the European Union. If you would like to know who our third party vendors are, please see our [Subprocessor Addendum](subprocessors-addendum.md).
+
+Foqal may disclose personally-identifying information or other information we collect about you to law enforcement in response to a valid subpoena, court order, warrant, or similar government order, or when we believe in good faith that disclosure is reasonably necessary to protect our property or rights, or those of third parties or the public at large.
+
+In complying with court orders and similar legal processes, Foqal strives for transparency. When permitted, we will make a reasonable effort to notify users of any disclosure of their information, unless we are prohibited by law or court order from doing so, or in rare, exigent circumstances.
+
+## Your Rights
+Foqal is the subprocessor to most of your personal data (name, email, etc) that we access. Any requests to add, modify, or delete such data should be made to the Customer to which you as a User are bound. Once the Customer modifies this data, it will be updated within our system within 10 business days.
+
+Foqal also collects and processes certain information about you (such as IP address, geo-location, device information) as mentioned in this Privacy Policy. This information is never shared with any party other than the mentioned Subprocessors. The duration of how long we store this information is described in the [Data Retention section](#Data-Retention). However if you would like for us to remove such information faster, please contact us at dpo@foqal.io and we will respond to you within 10 business days.
+
+You have the right to access and export your personal information at any time. Please refer to the [Data Portability](#Data-Portability,-Right-to-be-forgotten) section of this Privacy Policy for more information.
+
+We limit our use of your User Personal Information to the purposes listed in this Privacy Statement. If we need to use your User Personal Information for other purposes, we will ask your permission first.
+
+## Complaints
+In compliance with the Privacy Shield Principles, Foqal commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Foqal at: dpo@foqal.io
+
+For more information refer to the [Privacy Shield Dispute resolution process](#Dispute-resolution-process).
+
 ## Other
 ### External Data Storage Sites
 We may store and process your User Data on servers provided by third party hosting vendors with whom we have contracted.
@@ -172,6 +195,21 @@ Foqal reserves the right to change this Privacy Policy from time to time. We wil
 This Privacy Statement is licensed under this Creative Commons Zero License. This Statement is provided on an "as-is" basis. You are free to use this Statement for any purpose and modify it as you would like, however, we are not liable for any loss or damage suffered as a result of use or misuse or reliance on the information and content of this Statement.
 
 This Creative Commons Zero License Licence does not grant any trademark or other intellectual property permissions and does not convey or constitute any legal advice. Your use of this information does not create an attorney-client relationship between you and Foqal. This Privacy Statement and procedures may not suit your organizational needs, so always consult a lawyer if you want to adopt this Statement for your own uses. 
+
+
+## Resolving complaints
+If you have concerns about the way Foqal is handling your User Personal Information, please let us know immediately. We want to help. You may contact us by contacting us at privacy@foqal.io with the subject line "Privacy Concerns." We will respond promptly — within 30 days at the latest.
+
+You may also contact our Data Protection Officer directly by emailing dpo@foqal.io
+
+#### Dispute resolution process
+In the unlikely event that a dispute arises between you and Foqal regarding our handling of your User Personal Information, we will do our best to resolve it. If we cannot, ADR has been selected as an independent dispute resolution provider to handle unresolved Privacy Shield complaints. If we are unable to resolve your concerns after a good faith effort to address them, you may contact ADR and submit a Privacy Shield claim. ADR is a US-based private alternate dispute resolution provider, and we have contracted with ADR to provide an independent recourse mechanism for any of our users for privacy concerns at no cost to you. You do not need to appear in court; you may conduct this dispute resolution process via telephone or video conference.
+
+Additionally, if you are a resident of an EU member state, you have the right to file a complaint with your local supervisory authority.
+
+#### Independent arbitration
+Under certain limited circumstances, European Union individuals may invoke binding Privacy Shield arbitration as a last resort if all other forms of dispute resolution have been unsuccessful. To learn more about this method of resolution and its availability to you, please read more about Privacy Shield. Arbitration is not mandatory; it is a tool you can use if you choose to.
+We are subject to the jurisdiction of the Federal Trade Commission.
 
  
 ### Contact Information
