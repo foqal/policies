@@ -249,8 +249,8 @@ database and make backups; show it to you and other users; parse it into a searc
 our servers; share it with other users; and perform it, in case Your Content is something like music or video.
 
 This license does not grant Foqal the right to sell Your Content or otherwise distribute or use it outside of our 
-provision of the Service. We do however retain the right to sell, license and distribute Derivative Content which 
-is no way associated with you or your Users.
+provision of the Service without your expressed consent. We do however retain the right to sell, license and 
+distribute Derivative Content which is no way associated with you or your Users.
 
 ### 5. License Grant to Other Users
 Any User-Generated Content you or your Users post, including questions, answers, images, and comments, may be viewed
