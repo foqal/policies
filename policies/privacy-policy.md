@@ -164,6 +164,8 @@ Foqal may disclose personally-identifying information or other information we co
 
 In complying with court orders and similar legal processes, Foqal strives for transparency. When permitted, we will make a reasonable effort to notify users of any disclosure of their information, unless we are prohibited by law or court order from doing so, or in rare, exigent circumstances.
 
+Our Privacy Shield certification is available [here](https://www.privacyshield.gov/participant?id=a2zt00000008T2NAAU&status=Active).
+
 ## Your Rights
 Foqal is the Subprocessor to most of your personal data (name, email, etc) that we access. Any requests to add, modify, or delete such data should be made to the Customer to which you as a User are bound. Once the Customer modifies this data, it will be updated within our system within 10 business days.
 
