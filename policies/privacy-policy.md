@@ -1,5 +1,5 @@
 # Privacy Policy
-Effective as of October 24, 2018
+Effective as of October 24, 2018 | Last Update November 13, 2019
 
 This Privacy Policy governs data collection and usage and applies to the entire suite of Foqal products and services including, but not limited to, the website http://foqal.io, the Foqal Slack Extension, and Foqal Mobile Application (the “Services”).  
 
@@ -205,12 +205,13 @@ If you have concerns about the way Foqal is handling your User Personal Informat
 You may also contact our Data Protection Officer directly by emailing dpo@foqal.io
 
 #### Dispute resolution process
-In the unlikely event that a dispute arises between you and Foqal regarding our handling of your User Personal Information, we will do our best to resolve it. If we cannot, ADR has been selected as an independent dispute resolution provider to handle unresolved Privacy Shield complaints. If we are unable to resolve your concerns after a good faith effort to address them, you may [contact ADR and submit a Privacy Shield claim](http://go.adr.org/privacyshieldannex.html). ADR is a US-based private alternate dispute resolution provider, and we have contracted with ADR to provide an independent recourse mechanism for any of our users for privacy concerns at no cost to you. You do not need to appear in court; you may conduct this dispute resolution process via telephone or video conference.
+In the unlikely event that a dispute arises between you and Foqal regarding our handling of your User Personal Information, we will do our best to resolve it. Please contact us and give us the opportunity to resolve the issue. If we cannot, we commit to cooperate with EU Data Protection Authorities (DPAs) regarding any User Data related to human resource data or otherwise transferred from an EU country participating in the Privacy Shield Program. For this approach, please contact the U.S. Department of Commerce (either directly or through a European Data Protection Authority) to attempt to resolve the issue.
 
 Additionally, if you are a resident of an EU member state, you have the right to file a complaint with your local supervisory authority.
 
 #### Independent arbitration
-Under certain limited circumstances, European Union individuals may invoke binding Privacy Shield arbitration as a last resort if all other forms of dispute resolution have been unsuccessful. To learn more about this method of resolution and its availability to you, please read more about [Privacy Shield](https://www.privacyshield.gov/article?id=ANNEX-I-introduction). Arbitration is not mandatory; it is a tool you can use if you choose to.
+Under certain limited circumstances, European Union individuals may invoke binding Privacy Shield arbitration as a last resort if all other forms of dispute resolution have been unsuccessful. To learn more about this method of resolution and its availability to you, please read more about [Privacy Shield](https://www.privacyshield.gov/article?id=ANNEX-I-introduction). Arbitration is not mandatory; it is a tool you can use if you choose to. If you wish to invoke binding arbitration, each party will be responsible for its own attorney’s fees.
+
 We are subject to the jurisdiction of the Federal Trade Commission.
 
  
