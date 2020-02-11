@@ -48,8 +48,8 @@ Please keep in mind that if you directly disclose personally-identifiable inform
 ### Data Jurisdiction
 Unfortunately Foqal doesn’t have an office in every country. We may transfer your data to countries other than the one where you live including the United States. Other countries have regulations that might be different from yours, however we take all measures to ensure that your Data remains protected and complies with applicable data protection laws.  The hosting facilities for our Services are located in United States of America.
  
-If your data originates in the European Union or Switzerland, the following are safeguards we deploy:
-* Foqal complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield  Framework(s), as applicable) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland, to the United States. Foqal has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/.
+If your data originates in the European Union, the United Kingdom, or Switzerland, the following are safeguards we deploy:
+* Foqal complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield  Framework(s), as applicable) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the United Kingdom, and Switzerland, to the United States. Foqal has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/.
 * European Union Model Clauses - to meet the security, privacy, and adequacy requirements of international data transfer between our Customers residing in the EU and Foqal, we offer European Union Model Clauses (also known as Standard Model Clauses). To get a copy of this data addendum, please contact us at legal@foqal.io.
 
 ## How we use your data
@@ -210,7 +210,7 @@ In the unlikely event that a dispute arises between you and Foqal regarding our 
 Additionally, if you are a resident of an EU member state, you have the right to file a complaint with your local supervisory authority.
 
 #### Independent arbitration
-Under certain limited circumstances, European Union individuals may invoke binding Privacy Shield arbitration as a last resort if all other forms of dispute resolution have been unsuccessful. To learn more about this method of resolution and its availability to you, please read more about [Privacy Shield](https://www.privacyshield.gov/article?id=ANNEX-I-introduction). Arbitration is not mandatory; it is a tool you can use if you choose to. If you wish to invoke binding arbitration, each party will be responsible for its own attorney’s fees.
+Under certain limited circumstances, European Union or United Kingdom individuals may invoke binding Privacy Shield arbitration as a last resort if all other forms of dispute resolution have been unsuccessful. To learn more about this method of resolution and its availability to you, please read more about [Privacy Shield](https://www.privacyshield.gov/article?id=ANNEX-I-introduction). Arbitration is not mandatory; it is a tool you can use if you choose to. If you wish to invoke binding arbitration, each party will be responsible for its own attorney’s fees.
 
 We are subject to the jurisdiction of the Federal Trade Commission.
 
